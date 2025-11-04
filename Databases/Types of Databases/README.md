@@ -128,7 +128,7 @@ Graph databases use the graph data structure to store data, where nodes represen
 
 In the following figure, some data is stored using a graph data structure in nodes connected to each other via edges representing relationships between nodes. Each node has some properties, like Name, ID, and Age. The node having ID: 2 has the Name of James and Age of 29 years.
 
-[A graph consists of nodes and links. This graph captures entities and their relationships with each other](./graph.jpg)
+[A graph consists of nodes and links. This graph captures entities and their relationships with each other](./graphdb.jpg)
 
 Use case: Graph databases can be used in social applications and provide interesting facts and figures among different kinds of users and their activities. The focus of graph databases is to store data and pave the way to drive analyses and decisions based on relationships between entities. The nature of graph databases makes them suitable for various applications, such as data regulation and privacy, machine learning research, financial services-based applications, and many more.
 
@@ -158,5 +158,6 @@ Note: When NoSQL databases first came into being, they were drastically differen
 ```
 Spanner: Google’s Globally-Distributed Database, Google, Inc.
 ```
+
 
 
